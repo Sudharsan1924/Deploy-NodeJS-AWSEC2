@@ -7,6 +7,7 @@
 git clone https://github.com/verma-kunal/AWS-Session.git
 ```
 2. Setup the following environment variables - `(.env)` file
+An environment variable file, also known as a .env file, is a configuration file that defines environment-specific variables. These variables are used to store sensitive information, such as database logins, API keys, and global constants.
 ```
 DOMAIN= ""
 PORT=3000
